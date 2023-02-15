@@ -1,2 +1,2 @@
-# ired-mglasiatwo
-For the deployment of ired-mglasiatwo
+# ired-mglasiaone
+for deployment of ired-mglasiaone
